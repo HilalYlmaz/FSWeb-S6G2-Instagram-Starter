@@ -1,7 +1,7 @@
 // Bu dosyada bir değişiklik yapmanıza gerek yok
 import React from 'react';
 
-const GönderiBaşlığı = props => {
+const GönderiBasligi = props => {
   // 🔥 Bu bileşenin parentının aşağıdaki propları düzgün gönderdiğinden emin olun.
   const { thumbnailUrl, username } = props;
 
@@ -19,4 +19,4 @@ const GönderiBaşlığı = props => {
   );
 };
 
-export default GönderiBaşlığı;
+export default GönderiBasligi;

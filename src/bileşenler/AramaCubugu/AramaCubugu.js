@@ -3,9 +3,9 @@ import React from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 import { faHeart, faCircle, faCompass } from '@fortawesome/free-regular-svg-icons';
-import "./AramaÇubuğu.css";
+import "./AramaCubugu.css";
 
-const AramaÇubuğu = (props) => {
+const AramaCubugu = (props) => {
   return (
     <div className="search-bar-wrapper">
       <div className="social">
@@ -32,4 +32,4 @@ const AramaÇubuğu = (props) => {
   );
 };
 
-export default AramaÇubuğu;
+export default AramaCubugu;
